@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">App - File Editor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit">Edit</string>
+
+    <string name="title_activity_add_text_file">Add Text File</string>
+    <string name="title_activity_edit_text_file">Edit Text File</string>
+
+    <string name="edt_filename">What is the filename?</string>
+    <string name="edt_file_contents">What are you thinking?</string>
+    <string name="save">Save</string>
+    <string name="validation_filename_required">The filename is required!</string>
+    <string name="add_file">Add Shared File</string>
+    <string name="validation_error">Something went wrong!</string>
+    <string name="file_saved">File saved!</string>
+    <string name="remove">Remove</string>
+    <string name="title_activity_filename">%s</string>
+    <string name="toast_file_removed">File removed!</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="alert_removing_file">Be careful</string>
+    <string name="alert_removing_file_message">Do you really want to remove the file %s?</string>
+    <string name="validation_filename_invalid">Invalid Filename!</string>
+    <string name="validation_filename_exists">Filename alredy exists!</string>
+</resources>

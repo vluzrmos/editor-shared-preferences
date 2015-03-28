@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App - Editor de Arquivos</string>
+    <string name="action_settings">Configurações</string>
+    <string name="add_file">Adicionar Arquivo</string>
+    <string name="alert_removing_file">Tenha cuidado</string>
+    <string name="alert_removing_file_message">Você realmente deseja remover o arquivo %s?</string>
+    <string name="edit">Editar</string>
+    <string name="edt_file_contents">No que você está pensando?</string>
+    <string name="edt_filename">Qual é o nome do arquivo?</string>
+    <string name="file_saved">Arquivo salvo!</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="no">Não</string>
+    <string name="remove">Remover</string>
+    <string name="save">Salvar</string>
+    <string name="title_activity_add_text_file">Adicionar Arquivo</string>
+    <string name="title_activity_edit_text_file">Editar Arquivo</string>
+    <string name="title_activity_filename">%s</string>
+    <string name="toast_file_removed">Arquivo removido!</string>
+    <string name="validation_error">Alguma coisa deu errado!</string>
+    <string name="validation_filename_required">O nome do arquivo é obrigatório</string>
+    <string name="yes">Sim</string>
+    <string name="validation_filename_invalid">Nome de arquivo inválido!</string>
+    <string name="validation_filename_exists">Já existe um arquivo com esse nome!</string>
+</resources>
